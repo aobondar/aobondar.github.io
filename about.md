@@ -4,12 +4,16 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+### Who tf are you?
 
-### More Information
+I'm a software engineer, curious about backend development, distributed systems, machine learning. Also I used to develop  virtualization software, do C++ development, realtime system programming and create mobile applications.
 
-A place to include any other types of information that you'd like to include about yourself.
+### And so what?
 
-### Contact me
+As you can see I'm totally obsessed with technologies. So here I'm trying to express some of my thoughts on software and engineering prjcesses.
 
-[email@domain.com](mailto:email@domain.com)
+
+### I have something to tell ya
+
+The fastest way to reach me, is to write me at linkedIn:
+[Artem Bondar](https://www.linkedin.com/in/artem-bondar-652112100)
