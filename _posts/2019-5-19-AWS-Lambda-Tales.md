@@ -1,6 +1,6 @@
 ---
 layout: post
-title: On AWS Lambda
+title: 4 years with AWS Lambda (and why we left it behind)
 ---
 
 In 2015 I was a CTO of a small startup, trying to figure out how to deal with horrifically growing size of our MVP, having only a team of two engineers. Our team has a lack of building production-ready web services, thus first experience of writing django-based backend was painful. So when we started a new product, I started digging for new backend-stack, that could help us move faster.
