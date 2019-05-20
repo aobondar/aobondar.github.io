@@ -1,4 +1,9 @@
-# Blog Comment Policy
+---
+layout: page
+title: Blog Comment Policy
+permalink: /comments/
+---
+
 I want everyone to feel at home posting comments here. That’s why I reserve the right to delete comments and ban users as needed to keep the comment threads here civil and substantive.
 
 Our No. 1 house rule is simple: **Don’t be a jerk**.
