@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-### Who tf are you?
+### Who are you?
 
 I'm a software engineer, curious about backend development, distributed systems, machine learning. Also I used to develop  virtualization software, do C++ development, realtime system programming and create mobile applications.
 
